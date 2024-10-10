@@ -1,0 +1,21 @@
+.odd {
+  background-color: hsl(0, 100%, 86%);
+
+  font-family: verana, dejavu sans, sans-serif;
+}
+
+.mid {
+  font-size: 1.5rem;
+}
+
+#two {
+  color: hsl(232, 100%, 48%);
+
+  font-size: 2.25rem;
+}
+
+#four {
+  background-color: hsl(124, 100%, 73%);
+
+  font-weight: bold;
+}
